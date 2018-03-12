@@ -1,5 +1,5 @@
-* {
-  font-family: Verdana;
+body {
+  font-family: Verdana, sans-serif;
   background-color: black;
   text-align: center;
   color: white;
@@ -15,4 +15,10 @@ h2 {
 a {
   color: aquamarine;
   font-size: 16px;
+}
+p {
+  color: gray;
+}
+.footer {
+  text-align: right;
 }
